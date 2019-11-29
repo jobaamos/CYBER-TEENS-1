@@ -1,4 +1,4 @@
-introduction=('''WELCOME TO CYBER TEENS QUIZ)
+introduction=('''WELCOME TO CYBER TEENS QUIZ
              Which quiz would you like:
               (1) Sciences
               (2) Arts
